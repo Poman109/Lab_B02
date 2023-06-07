@@ -1,6 +1,10 @@
 
 package com.apilab_01.apibasics01;
 
+import org.springframework.web.bind.annotation.RestController;
+
+
+
 public class Person {
     private String firstName;
     private String lastName;
